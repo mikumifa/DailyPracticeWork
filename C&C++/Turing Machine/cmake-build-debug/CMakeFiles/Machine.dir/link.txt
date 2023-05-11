@@ -1,0 +1,1 @@
+clang++  -g   CMakeFiles/Machine.dir/TuringMachineState.cpp.o CMakeFiles/Machine.dir/DenseTuringMachine.cpp.o CMakeFiles/Machine.dir/TuringTape.cpp.o CMakeFiles/Machine.dir/MenuSystem.cpp.o CMakeFiles/Machine.dir/SparseTuringMachine.cpp.o CMakeFiles/Machine.dir/Main.cpp.o  -o Machine 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikumifa/CLionProjects/BTree/lab5-q2.c
+malloc.h
+-
+limits.h
+-
+string.h
+-
+lab5-q2.h
+/mnt/c/Users/mikumifa/CLionProjects/BTree/lab5-q2.h
+stdio.h
+/mnt/c/Users/mikumifa/CLionProjects/BTree/stdio.h
+
+/mnt/c/Users/mikumifa/CLionProjects/BTree/lab5-q2.h
+

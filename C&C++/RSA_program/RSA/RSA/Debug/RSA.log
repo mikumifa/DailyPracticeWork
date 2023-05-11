@@ -1,0 +1,114 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  server.cpp
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(49,5): error C2065: “cout”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(49,47): error C2065: “endl”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(50,34): error C3861: “strlen”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(52,13): error C2065: “cout”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(52,50): error C2065: “endl”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(55,13): error C2065: “cout”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(55,50): error C2065: “endl”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(58,13): error C2065: “cout”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(58,60): error C2065: “endl”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(61,5): error C2065: “cout”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(61,22): error C2065: “endl”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(80,26): error C3861: “sqrt”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(103,13): error C3861: “pow”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(110,13): error C3861: “pow”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(124,10): error C2039: "cout": 不是 "std" 的成员
+C:\Users\mikumifa\source\repos\RSA\RSA\predefined C++ types (compiler internal)(340): message : 参见“std”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(124,15): error C2065: “cout”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(124,73): error C2039: "endl": 不是 "std" 的成员
+C:\Users\mikumifa\source\repos\RSA\RSA\predefined C++ types (compiler internal)(340): message : 参见“std”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(124,77): error C2065: “endl”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(125,10): error C2039: "cout": 不是 "std" 的成员
+C:\Users\mikumifa\source\repos\RSA\RSA\predefined C++ types (compiler internal)(340): message : 参见“std”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(125,15): error C2065: “cout”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(125,74): error C2039: "endl": 不是 "std" 的成员
+C:\Users\mikumifa\source\repos\RSA\RSA\predefined C++ types (compiler internal)(340): message : 参见“std”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(125,78): error C2065: “endl”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(130,29): error C2079: “clientAddress”使用未定义的 struct“main::sockaddr_storage”
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(132,21): error C2065: “NI_MAXHOST”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(133,24): error C2065: “NI_MAXSERV”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(140,18): error C2065: “NI_MAXSERV”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(152,5): error C2065: “SOCKET”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(152,12): error C2146: 语法错误: 缺少“;”(在标识符“s”的前面)
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(152,12): error C2065: “s”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(152,15): error C2065: “ns”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(164,22): error C2065: “WSVERS”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(164,31): error C2065: “wsadata”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(164,11): error C3861: “WSAStartup”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(166,9): error C3861: “WSACleanup”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(169,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(170,9): error C3861: “exit”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(182,16): error C2065: “wsadata”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(182,9): error C3861: “LOBYTE”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(182,49): error C2065: “wsadata”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(182,42): error C3861: “HIBYTE”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(185,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(186,9): error C3861: “WSACleanup”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(187,9): error C3861: “exit”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(190,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(191,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(200,31): error C2065: “NULL”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(201,21): error C2079: “hints”使用未定义的 struct“main::addrinfo”
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(211,45): error C2027: 使用了未定义类型“main::addrinfo”
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(200): message : 参见“main::addrinfo”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(211,5): error C3861: “memset”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(214,27): error C2065: “AF_INET6”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(217,27): error C2065: “AF_INET”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(220,25): error C2065: “SOCK_STREAM”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(221,25): error C2065: “IPPROTO_TCP”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(222,22): error C2065: “AI_PASSIVE”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(228,31): error C2065: “NULL”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(228,19): error C3861: “getaddrinfo”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(231,9): error C3861: “sprintf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(232,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(235,31): error C2065: “NULL”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(235,19): error C3861: “getaddrinfo”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(238,9): error C3861: “sprintf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(239,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(252,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(254,9): error C3861: “WSACleanup”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(266,5): error C2065: “s”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(266,9): error C2065: “INVALID_SOCKET”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(270,5): error C2065: “s”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(270,22): error C2027: 使用了未定义类型“main::addrinfo”
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(200): message : 参见“main::addrinfo”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(270,41): error C2027: 使用了未定义类型“main::addrinfo”
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(200): message : 参见“main::addrinfo”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(270,62): error C2027: 使用了未定义类型“main::addrinfo”
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(200): message : 参见“main::addrinfo”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(270,9): error C3861: “socket”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(283,9): error C2065: “s”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(283,14): error C2065: “INVALID_SOCKET”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(284,43): error C3861: “WSAGetLastError”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(284,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(285,9): error C3861: “freeaddrinfo”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(286,9): error C3861: “WSACleanup”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(287,9): error C3861: “exit”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(298,20): error C2065: “s”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(298,29): error C2027: 使用了未定义类型“main::addrinfo”
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(200): message : 参见“main::addrinfo”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(298,51): error C2027: 使用了未定义类型“main::addrinfo”
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(200): message : 参见“main::addrinfo”的声明
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(298,15): error C3861: “bind”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(312,20): error C2065: “SOCKET_ERROR”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(313,48): error C3861: “WSAGetLastError”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(313,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(314,9): error C3861: “freeaddrinfo”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(316,21): error C2065: “s”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(316,9): error C3861: “closesocket”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(317,9): error C3861: “WSACleanup”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(322,5): error C3861: “freeaddrinfo”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(345,16): error C2065: “s”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(345,19): error C2065: “SOMAXCONN”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(345,9): error C3861: “listen”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(345,33): error C2065: “SOCKET_ERROR”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(346,50): error C3861: “WSAGetLastError”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(346,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(347,21): error C2065: “s”: 未声明的标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(347,9): error C3861: “closesocket”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(348,9): error C3861: “WSACleanup”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(349,9): error C3861: “exit”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(357,9): error C3861: “printf”: 找不到标识符
+C:\Users\mikumifa\source\repos\RSA\RSA\server.cpp(357,68): fatal error C1003: 错误计数超过 100；正在停止编译

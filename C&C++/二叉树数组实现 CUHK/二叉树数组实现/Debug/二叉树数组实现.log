@@ -1,0 +1,24 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  lab5-q1-tc1.c
+C:\Users\mikumifa\CLionProjects\BTree\lab5-q1-tc1.c(153,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\CLionProjects\BTree\lab5-q1-tc1.c(154,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lab5-q2.c
+C:\Users\mikumifa\CLionProjects\BTree\lab5-q2.c(153,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\CLionProjects\BTree\lab5-q2.c(154,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  LINK : 没有找到 C:\Users\mikumifa\source\repos\二叉树数组实现\Debug\二叉树数组实现.exe 或上一个增量链接没有生成它；正在执行完全链接
+lab5-q2.obj : error LNK2005: _tree_free 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_index_find 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_init 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_init_with_array 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_init_with_height 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_insert_lchild 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_insert_rchild 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_key_find 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_lchild 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_parent 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_postorder_print 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_print 已经在 lab5-q1-tc1.obj 中定义
+lab5-q2.obj : error LNK2005: _tree_rchild 已经在 lab5-q1-tc1.obj 中定义
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\Users\mikumifa\source\repos\二叉树数组实现\Debug\二叉树数组实现.exe : fatal error LNK1120: 1 个无法解析的外部命令

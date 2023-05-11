@@ -1,0 +1,15 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  源.cpp
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(83,9): warning C4566: 由通用字符名称“\u2200”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(85,9): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(85,9): warning C4566: 由通用字符名称“\u0300”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(85,9): warning C4566: 由通用字符名称“\u0301”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(92,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(97,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(110,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(120,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(133,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(149,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(160,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\Project14\Project14\源.cpp(173,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project14.vcxproj -> C:\Users\mikumifa\source\repos\Project14\Debug\Project14.exe

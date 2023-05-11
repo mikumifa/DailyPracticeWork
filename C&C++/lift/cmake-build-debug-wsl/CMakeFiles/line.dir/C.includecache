@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikumifa/CLionProjects/line/assignment2_handout.c
+stdio.h
+-
+stddef.h
+-
+stdlib.h
+-
+lift.h
+/mnt/c/Users/mikumifa/CLionProjects/line/lift.h
+
+/mnt/c/Users/mikumifa/CLionProjects/line/lift.h
+windows.h
+-
+pthread.h
+-
+unistd.h
+-
+semaphore.h
+-
+time.h
+-
+pthread.h
+-
+unistd.h
+-
+dispatch/dispatch.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PriorityQueue.dir/main.cpp.o CMakeFiles/PriorityQueue.dir/solution.cc.o  -o PriorityQueue 

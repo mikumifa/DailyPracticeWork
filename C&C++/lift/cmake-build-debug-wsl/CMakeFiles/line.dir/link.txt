@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/line.dir/assignment2_handout.c.o  -o line  -lpthread 

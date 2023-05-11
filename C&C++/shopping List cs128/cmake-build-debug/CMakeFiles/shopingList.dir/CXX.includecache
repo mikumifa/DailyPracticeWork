@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikumifa/CLionProjects/shopingList/Shoppinglist.cc
+shoppinglist.hpp
+/mnt/c/Users/mikumifa/CLionProjects/shopingList/shoppinglist.hpp
+vector
+-
+sstream
+-
+iostream
+/mnt/c/Users/mikumifa/CLionProjects/shopingList/iostream
+fstream
+/mnt/c/Users/mikumifa/CLionProjects/shopingList/fstream
+
+/mnt/c/Users/mikumifa/CLionProjects/shopingList/item.hpp
+string
+-
+
+/mnt/c/Users/mikumifa/CLionProjects/shopingList/shoppinglist.hpp
+vector
+-
+item.hpp
+/mnt/c/Users/mikumifa/CLionProjects/shopingList/item.hpp
+

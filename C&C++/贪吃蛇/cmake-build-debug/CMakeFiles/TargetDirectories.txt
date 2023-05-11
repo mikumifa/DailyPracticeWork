@@ -1,0 +1,3 @@
+/mnt/c/Users/mikumifa/CLionProjects/c++test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mikumifa/CLionProjects/c++test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mikumifa/CLionProjects/c++test/cmake-build-debug/CMakeFiles/c__test.dir

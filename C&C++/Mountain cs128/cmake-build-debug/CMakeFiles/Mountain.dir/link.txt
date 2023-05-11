@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Mountain.dir/Color.cc.o CMakeFiles/Mountain.dir/Path.cc.o CMakeFiles/Mountain.dir/Path_image.cc.o CMakeFiles/Mountain.dir/elevation_dataset.cc.o CMakeFiles/Mountain.dir/grayscale_image.cc.o CMakeFiles/Mountain.dir/main.cpp.o  -o ../Mountain 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikumifa/CLionProjects/result_overflow/Solution.cc
+solution.hpp
+/mnt/c/Users/mikumifa/CLionProjects/result_overflow/solution.hpp
+cmath
+-
+iostream
+-
+limits
+-
+
+/mnt/c/Users/mikumifa/CLionProjects/result_overflow/solution.hpp
+utility
+-
+

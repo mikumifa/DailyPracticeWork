@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikumifa/CLionProjects/PriorityQueue/main.cpp
+iostream
+-
+cassert
+-
+random
+-
+solution.hpp
+/mnt/c/Users/mikumifa/CLionProjects/PriorityQueue/solution.hpp
+
+/mnt/c/Users/mikumifa/CLionProjects/PriorityQueue/node.hpp
+
+/mnt/c/Users/mikumifa/CLionProjects/PriorityQueue/solution.hpp
+stdexcept
+-
+node.hpp
+/mnt/c/Users/mikumifa/CLionProjects/PriorityQueue/node.hpp
+

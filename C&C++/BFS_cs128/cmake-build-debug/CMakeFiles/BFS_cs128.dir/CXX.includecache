@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikumifa/CLionProjects/BFS_cs128/illini_book.cc
+illini_book.hpp
+/mnt/c/Users/mikumifa/CLionProjects/BFS_cs128/illini_book.hpp
+utilities.hpp
+/mnt/c/Users/mikumifa/CLionProjects/BFS_cs128/utilities.hpp
+fstream
+-
+iostream
+-
+queue
+-
+set
+-
+sstream
+-
+string
+-
+
+/mnt/c/Users/mikumifa/CLionProjects/BFS_cs128/illini_book.hpp
+string
+-
+map
+-
+vector
+-
+
+/mnt/c/Users/mikumifa/CLionProjects/BFS_cs128/utilities.hpp
+string
+-
+vector
+-
+

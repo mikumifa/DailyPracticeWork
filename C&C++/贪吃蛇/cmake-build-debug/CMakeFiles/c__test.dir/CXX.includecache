@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mikumifa/CLionProjects/c++test/main.cpp
+chrono
+-
+iostream
+-
+ncurses.h
+-
+unistd.h
+-
+vector
+-
+sys/ioctl.h
+-
+termios.h
+-
+

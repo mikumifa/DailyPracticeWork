@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwordCound.a  CMakeFiles/wordCound.dir/library.c.o
+/usr/bin/ranlib libwordCound.a

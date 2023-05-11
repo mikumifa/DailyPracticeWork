@@ -1,0 +1,3 @@
+/mnt/c/Users/mikumifa/CLionProjects/BFS_cs128/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mikumifa/CLionProjects/BFS_cs128/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mikumifa/CLionProjects/BFS_cs128/cmake-build-debug/CMakeFiles/BFS_cs128.dir

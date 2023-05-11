@@ -1,0 +1,21 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  源.cpp
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(138,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(150,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(154,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(170,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(185,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(189,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(205,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(221,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(225,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(242,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(269,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(273,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(290,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(318,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(381,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(394,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(422,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\mikumifa\source\repos\x4\x4\源.cpp(439,9): warning C4101: “j”: 未引用的局部变量
+  x4.vcxproj -> C:\Users\mikumifa\source\repos\x4\Debug\x4.exe

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/shopingList.dir/main.cpp.o CMakeFiles/shopingList.dir/Shoppinglist.cc.o  -o shopingList 
